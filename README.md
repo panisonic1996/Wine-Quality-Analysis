@@ -16,7 +16,7 @@
   
 ### Project steps:
 
-  1). The parser went from the dynamic page to a separate page for each wine, collected data, downloaded images, processed and extracted data from them and put everything to a csv document(for scraping Beautiful Soup и easyocr were used).
+  :one: The parser went from the dynamic page to a separate page for each wine, collected data, downloaded images, processed and extracted data from them and put everything to a csv document(for scraping Beautiful Soup и easyocr were used).
 * folder ‘creating dataset’
 
   2). Created dataset was cleaned, additional characteristics and columns were created, the data was standardized.
