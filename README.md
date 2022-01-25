@@ -9,16 +9,11 @@ color, aroma, flavor, sweetness, alcohol, acidity, tannin, balance, finish, afte
 
   Wine rating has following structure:
   
-  93 – 100 (great) - a wine that has all the traits to become legendary
+  - 93 – 100 (great) - a wine that has all the traits to become legendary
+  - 91 – 92 (fine) - a wine of premium quality with good potential
+  - 89 – 90 (nice) - a well made wine that lacks elegance and finesse
+  - 75 – 88 (fair) - a decent wine that lacks character and structure
   
-  91 – 92 (fine) - a wine of premium quality with good potential
-  
-  89 – 90 (nice) - a well made wine that lacks elegance and finesse
-  
-  75 – 88 (fair) - a decent wine that lacks character and structure
-  
-  ![This is an image](https://drive.google.com/drive/folders/1PaSCxjIt4ld48sYDK6SYTKkmYpaq_U8U.ZORAH_Karasi_2018_review.png)
-
 ### Project steps:
 
   1). The parser went from the dynamic page to a separate page for each wine, collected data, downloaded images, processed and extracted data from them and put everything to a csv document(for scraping Beautiful Soup и easyocr were used).
