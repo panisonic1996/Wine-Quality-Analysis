@@ -35,7 +35,7 @@
 - Multi-Class Classifier(Tensorflow and Keras)**(loss: 0.1911, accuracy: 0.9425 on test dataset)
 - SVM Model  **(test accuracy: 0.948)**
 
-  *folder ‘building models’*
+ *folder ‘building models’*
 
 
 
