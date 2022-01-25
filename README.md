@@ -6,6 +6,7 @@
   
   Wines are evaluated according to the following indicators:
    color, aroma, flavor, sweetness, alcohol, acidity, tannin, balance, finish, aftertaste.
+   
   Wine rating has following structure:
   - 93 – 100 (great) - a wine that has all the traits to become legendary
   - 91 – 92 (fine) - a wine of premium quality with good potential
