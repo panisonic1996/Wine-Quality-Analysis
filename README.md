@@ -32,8 +32,10 @@ folder ‘visualization’
 ((R^2): 0.95, (MSE): 0.14)
 
   5). For wine classification were build:
-- Multi-Class Classifier(Tensorflow and Keras), loss: 0.1911 accuracy: 0.9425 on test dataset
-- SVM Model, Test accuracy: 0.948
+- Multi-Class Classifier(Tensorflow and Keras)
+    loss: 0.1911 accuracy: 0.9425 on test dataset
+- SVM Model
+    Test accuracy: 0.948
 folder ‘building models’
 
 saved and trained models are stored in ‘models’ folder
