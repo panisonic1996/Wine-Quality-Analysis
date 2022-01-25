@@ -26,13 +26,11 @@ folder ‘cleaning dataset’
 folder ‘visualization’
 
   4). For wine rating prediction was built Linear Regression Model
-((R^2): 0.95, (MSE): 0.14)
+**((R^2): 0.95, (MSE): 0.14)
 
   5). For wine classification were build:
-- Multi-Class Classifier(Tensorflow and Keras)
-      -loss: 0.1911 accuracy: 0.9425 on test dataset
-- SVM Model
-      -Test accuracy: 0.948
+- Multi-Class Classifier(Tensorflow and Keras)**(loss: 0.1911, accuracy: 0.9425 on test dataset)
+- SVM Model **(test accuracy: 0.948)**
 folder ‘building models’
 
 
