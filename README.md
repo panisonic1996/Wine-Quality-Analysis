@@ -1,5 +1,5 @@
-Wine-Quality-Analysis
-This is a project to explore the various characteristics and quality of wine. Data for analysis has been taken from the site “https://winestatistics.com/”.
+### Wine-Quality-Analysis
+##### This is a project to explore the various characteristics and quality of wine. Data for analysis has been taken from the site “https://winestatistics.com/”.
 
 
 
