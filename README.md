@@ -1,7 +1,7 @@
 ### Wine-Quality-Analysis
 #### This is a project to explore the various characteristics and quality of wine. Data for analysis has been taken from the site “https://winestatistics.com/”.
 
-  “WineStatistics is a wine tasting community, meant to describe modern wine by quantifying its subjective qualities (visual aspect, nose and palate) into comparable data indexes, so that the end result is a easy-to-read and 100% comparable wine rating system.  Our goal is to provide you, the reader, with a flexible tool, that will allow you to compare wines side by side. For example, you will be able to compare a wine that you have tasted, to a wine you only intend to taste or buy”.
+  *“WineStatistics is a wine tasting community, meant to describe modern wine by quantifying its subjective qualities (visual aspect, nose and palate) into comparable data indexes, so that the end result is a easy-to-read and 100% comparable wine rating system.  Our goal is to provide you, the reader, with a flexible tool, that will allow you to compare wines side by side. For example, you will be able to compare a wine that you have tasted, to a wine you only intend to taste or buy”.*
   
   Wines are evaluated according to the following indicators:
   
