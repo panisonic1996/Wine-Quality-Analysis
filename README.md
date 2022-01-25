@@ -10,7 +10,7 @@ Wine rating has following structure:
 89 – 90 (nice) - a well made wine that lacks elegance and finesse
 75 – 88 (fair) - a decent wine that lacks character and structure
 
-###Project steps:
+### Project steps:
 1). The parser from the dynamic page went to a separate page for each wine, collected data, downloaded images, processed and extracted data from them and put everything to a csv document(for scraping were used Beautiful Soup и easyocr)
 
 
