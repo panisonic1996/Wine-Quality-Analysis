@@ -1,4 +1,4 @@
-### Wine-Quality-Analysis :wine_glass: :wine_glass: :wine_glass: 
+## Wine-Quality-Analysis :wine_glass: :wine_glass: :wine_glass: 
 
 ### This is a project to explore the various characteristics and quality of wine. Data for analysis has been taken from the site “https://winestatistics.com/”.
 
@@ -35,7 +35,7 @@
 
  *folder ‘building models’*
 
-Other folders
+###### Other folders:
 
  *saved and trained models are stored in ‘models’ folder*
  
