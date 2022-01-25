@@ -37,11 +37,11 @@
 
 ###### Other folders:
 
- *saved and trained models are stored in ‘models’ folder*
+ *saved and trained models are stored in ‘models’*
  
- *raw and processed dataset  - ‘Data’ folder*
+ *raw and processed dataset  - ‘Data’*
  
- *functions and constants - 'constants_and_functions' folder*
+ *functions and constants - 'constants_and_functions'*
  
  *link to scraped images -* 
  https://drive.google.com/drive/folders/1R7DmelV4sfMLO1SKdMcLgzABnOUQIYKr?usp=sharing
