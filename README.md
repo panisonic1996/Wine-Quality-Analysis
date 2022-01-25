@@ -34,7 +34,8 @@ folder ‘visualization’
       -Test accuracy: 0.948
 folder ‘building models’
 
- - saved and trained models are stored in ‘models’ folder
- - raw and processed dataset  - ‘Data’
- - link to scraped images - 
+
+ *- saved and trained models are stored in ‘models’ folder
+ *- raw and processed dataset  - ‘Data’
+ *- link to scraped images - 
  https://drive.google.com/drive/folders/1R7DmelV4sfMLO1SKdMcLgzABnOUQIYKr?usp=sharing
