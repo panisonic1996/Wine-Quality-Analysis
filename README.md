@@ -16,6 +16,8 @@ color, aroma, flavor, sweetness, alcohol, acidity, tannin, balance, finish, afte
   89 – 90 (nice) - a well made wine that lacks elegance and finesse
   
   75 – 88 (fair) - a decent wine that lacks character and structure
+  
+  ![This is an image](https://drive.google.com/drive/folders/1PaSCxjIt4ld48sYDK6SYTKkmYpaq_U8U.ZORAH_Karasi_2018_review.png)
 
 ### Project steps:
 
