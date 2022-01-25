@@ -11,15 +11,20 @@ Wine rating has following structure:
 75 – 88 (fair) - a decent wine that lacks character and structure
 
 ### Project steps:
-1). The parser went from the dynamic page to a separate page for each wine, collected data, downloaded images, processed and extracted data from them and put everything to a csv document(for scraping Beautiful Soup и easyocr were used).
+
+  1). The parser went from the dynamic page to a separate page for each wine, collected data, downloaded images, processed and extracted data from them and put everything to a csv document(for scraping Beautiful Soup и easyocr were used).
 folder ‘creating dataset’
-2). Created dataset was cleaned, additional characteristics and columns were created, the data was standardized.
+
+  2). Created dataset was cleaned, additional characteristics and columns were created, the data was standardized.
 folder ‘cleaning dataset’
-3). Cleaned dataset was visualized(using matplotlib and seaborn).
+
+  3). Cleaned dataset was visualized(using matplotlib and seaborn).
 folder ‘visualization’
-4). For wine rating prediction was built Linear Regression Model
+
+  4). For wine rating prediction was built Linear Regression Model
 ((R^2): 0.95, (MSE): 0.14)
-5). For wine classification were build:
+
+  5). For wine classification were build:
 - Multi-Class Classifier(Tensorflow and Keras), loss: 0.1911 accuracy: 0.9425 on test dataset
 - SVM Model, Test accuracy: 0.948
 folder ‘building models’
