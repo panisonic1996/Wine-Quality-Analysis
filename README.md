@@ -46,3 +46,9 @@
  *link to scraped images -* 
  https://drive.google.com/drive/folders/1R7DmelV4sfMLO1SKdMcLgzABnOUQIYKr?usp=sharing
  
+ **Technologies:**
+
+ Language: Python;
+ 
+ Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, tensorflow, PIL, BeautifulSoup, requests, easyocr.
+ 
